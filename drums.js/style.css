@@ -8,6 +8,16 @@
     width: 100%;
     background: url("./drum.jpg") center;
 }
+.title{
+    color:white;
+    text-align: center;
+    padding:6px;
+    font-size: 25px;
+    text-shadow: 0 0 10px;
+    letter-spacing: 5px;   
+    border: 1px solid whitesmoke;
+    background:rgba(0,0,0,0.7);
+}
 .keys{
     background: rgba(0,0,0,0.6);
     width:100%;
